@@ -1,7 +1,7 @@
 
 package com.bondhubazar.websocket.bondhuwebsocket;
 
-// Android Handler: UI Thread-এ Event পাঠানোর জন্য
+// Android Handler: UI Thread-এ Event পাঠাতে
 import android.os.Handler;
 import android.os.Looper;
 
